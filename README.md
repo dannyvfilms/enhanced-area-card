@@ -5,12 +5,12 @@ This is a custom card for Home Assistant allowing users to display various entit
 
 ## Installation
 
-1. Download the `content-card-example.js` file from the repository.
+1. Download the `enhanced-area-card.js` file from the repository.
 2. Place the file in your `config/www` directory.
 3. Add the following to your `ui-lovelace.yaml` or through the Raw Config editor in the UI:
    ```yaml
    resources:
-     - url: /local/content-card-example.js
+     - url: /local/enhanced-area-card.js
        type: module
 
 ## Configuration
